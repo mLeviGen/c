@@ -7,10 +7,10 @@ const Footer = () => {
         <div className="footer-content">
           <p className="contact-title">CONTACT</p>
           <h2 className="footer-main-text">
-            We're focused on building brands and a better future.
+            We&rsquo;re focused on building brands and a better future.
           </h2>
           <h2 className="footer-main-text">
-            If you'd like to partner with us, we're{" "}
+            If you&rsquo;d like to partner with us, we&rsquo;re{" "}
             <span className="highlight">here</span> to talk.
           </h2>
 
@@ -50,3 +50,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
